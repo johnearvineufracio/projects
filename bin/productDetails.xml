@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<veganChocolates>
+	<veganChocolate>
+		<sku>1</sku>
+		<description>Caramel</description>
+		<value>2.50</value>
+	</veganChocolate>
+	<veganChocolate>
+		<sku>1</sku>
+		<description>Hazelnut</description>
+		<value>3.10</value>
+	</veganChocolate>
+	<veganChocolate>
+		<sku>1</sku>
+		<description>Organic Raw</description>
+		<value>2</value>
+	</veganChocolate>
+</veganChocolates>
